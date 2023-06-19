@@ -20,4 +20,9 @@ You can have the USB connected and supplying power as long as power is not also 
 
 Hope that makes sense.
 
+The board will be available on Tindie.com shortly.
+
+18-June-2023
+
+
 

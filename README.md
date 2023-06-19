@@ -1,4 +1,4 @@
-# S3BareBone
+# ESP32-S3 Bare Bone
 
 ![Arduino Tools](/KiCad/s3Barebone-brd.PNG)
 

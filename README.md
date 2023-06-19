@@ -13,6 +13,8 @@ Power can be supplied via the USB connector or via the 5v or 3.3v pins...**Never
 ## Arduino
 To upload sketches to the board via the USB connector, set the following:
 
+Set the board to **ESP32S3 Dev Module**
+
 ![Arduino Tools](/images/arduino_board.PNG)
 
 Sketches can also be uploaded via an ISP programmer using the RX/TX pins.  If an external programmer supplies 5v, this can be connected to the 5V pin to power the board.  Just don't power supplied via the USB at the same time.

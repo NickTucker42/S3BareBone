@@ -22,7 +22,7 @@ You can have the USB connected and supplying power as long as power is not also 
 
 Hope that makes sense.
 
-[The ESP32-S3 Datasheet can be found here] (https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf "ESP32-S3 datasheet")
+[The ESP32-S3 Datasheet can be found here](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf "ESP32-S3 datasheet")
 
 
 
